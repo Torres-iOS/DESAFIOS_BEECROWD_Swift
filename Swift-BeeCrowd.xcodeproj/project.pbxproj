@@ -1,0 +1,406 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FCE501972B9710030038FA71 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501962B9710030038FA71 /* main.swift */; };
+		FCE501A92B9711570038FA71 /* Produto Simples.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE5019F2B9711570038FA71 /* Produto Simples.swift */; };
+		FCE501AA2B9711570038FA71 /* Extremamente Básico.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A02B9711570038FA71 /* Extremamente Básico.swift */; };
+		FCE501AB2B9711570038FA71 /* Média 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A12B9711570038FA71 /* Média 2.swift */; };
+		FCE501AC2B9711570038FA71 /* Diferença.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A22B9711570038FA71 /* Diferença.swift */; };
+		FCE501AD2B9711570038FA71 /* Hello World.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A32B9711570038FA71 /* Hello World.swift */; };
+		FCE501AE2B9711570038FA71 /* Salário com Bônus.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A42B9711570038FA71 /* Salário com Bônus.swift */; };
+		FCE501AF2B9711570038FA71 /* Soma Simples.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A52B9711570038FA71 /* Soma Simples.swift */; };
+		FCE501B02B9711570038FA71 /* Salário.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A62B9711570038FA71 /* Salário.swift */; };
+		FCE501B12B9711570038FA71 /* Média 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A72B9711570038FA71 /* Média 1.swift */; };
+		FCE501B22B9711570038FA71 /* Cálculo Simples.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A82B9711570038FA71 /* Cálculo Simples.swift */; };
+		FCE501B42B97129F0038FA71 /* Consumo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501B32B97129F0038FA71 /* Consumo.swift */; };
+		FCE501B62B9714AF0038FA71 /* Distância entre dois pontos.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501B52B9714AF0038FA71 /* Distância entre dois pontos.swift */; };
+		FCE501BB2B97169B0038FA71 /* Distância.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501BA2B97169B0038FA71 /* Distância.swift */; };
+		FCE501BD2B97181C0038FA71 /* Gasto de Combustível.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501BC2B97181C0038FA71 /* Gasto de Combustível.swift */; };
+		FCE501C22B971DC80038FA71 /* Cédulas.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501C12B971DC80038FA71 /* Cédulas.swift */; };
+		FCE501C42B971F750038FA71 /* Conversão de Tempo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501C32B971F750038FA71 /* Conversão de Tempo.swift */; };
+		FCE501C82B973CE50038FA71 /* Números Pares.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501C72B973CE50038FA71 /* Números Pares.swift */; };
+		FCE501CA2B9745580038FA71 /* Números Positivos.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501C92B9745580038FA71 /* Números Positivos.swift */; };
+		FCE501CC2B974DF80038FA71 /* Pares entre 5 numeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501CB2B974DF80038FA71 /* Pares entre 5 numeros.swift */; };
+		FCE501CE2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501CD2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		FCE501912B9710030038FA71 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		FCE501932B9710030038FA71 /* Swift-BeeCrowd */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift-BeeCrowd"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FCE501962B9710030038FA71 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		FCE5019F2B9711570038FA71 /* Produto Simples.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Produto Simples.swift"; sourceTree = "<group>"; };
+		FCE501A02B9711570038FA71 /* Extremamente Básico.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Extremamente \U0010Básico.swift"; sourceTree = "<group>"; };
+		FCE501A12B9711570038FA71 /* Média 2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Média 2.swift"; sourceTree = "<group>"; };
+		FCE501A22B9711570038FA71 /* Diferença.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Diferença.swift"; sourceTree = "<group>"; };
+		FCE501A32B9711570038FA71 /* Hello World.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Hello World.swift"; sourceTree = "<group>"; };
+		FCE501A42B9711570038FA71 /* Salário com Bônus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Salário com Bônus.swift"; sourceTree = "<group>"; };
+		FCE501A52B9711570038FA71 /* Soma Simples.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Soma Simples.swift"; sourceTree = "<group>"; };
+		FCE501A62B9711570038FA71 /* Salário.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Salário.swift"; sourceTree = "<group>"; };
+		FCE501A72B9711570038FA71 /* Média 1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Média 1.swift"; sourceTree = "<group>"; };
+		FCE501A82B9711570038FA71 /* Cálculo Simples.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Cálculo Simples.swift"; sourceTree = "<group>"; };
+		FCE501B32B97129F0038FA71 /* Consumo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Consumo.swift; sourceTree = "<group>"; };
+		FCE501B52B9714AF0038FA71 /* Distância entre dois pontos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Distância entre dois pontos.swift"; sourceTree = "<group>"; };
+		FCE501BA2B97169B0038FA71 /* Distância.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Distância.swift"; sourceTree = "<group>"; };
+		FCE501BC2B97181C0038FA71 /* Gasto de Combustível.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Gasto de Combustível.swift"; sourceTree = "<group>"; };
+		FCE501C12B971DC80038FA71 /* Cédulas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Cédulas.swift"; sourceTree = "<group>"; };
+		FCE501C32B971F750038FA71 /* Conversão de Tempo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Conversão de Tempo.swift"; sourceTree = "<group>"; };
+		FCE501C72B973CE50038FA71 /* Números Pares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Números Pares.swift"; sourceTree = "<group>"; };
+		FCE501C92B9745580038FA71 /* Números Positivos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Números Positivos.swift"; sourceTree = "<group>"; };
+		FCE501CB2B974DF80038FA71 /* Pares entre 5 numeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pares entre 5 numeros.swift"; sourceTree = "<group>"; };
+		FCE501CD2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pares, Ímpares, Positivos e Negativos.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FCE501902B9710030038FA71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FCE5018A2B9710030038FA71 = {
+			isa = PBXGroup;
+			children = (
+				FCE501952B9710030038FA71 /* Swift-BeeCrowd */,
+				FCE501942B9710030038FA71 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FCE501942B9710030038FA71 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FCE501932B9710030038FA71 /* Swift-BeeCrowd */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FCE501952B9710030038FA71 /* Swift-BeeCrowd */ = {
+			isa = PBXGroup;
+			children = (
+				FCE501962B9710030038FA71 /* main.swift */,
+				FCE501C02B971DB40038FA71 /* PROBLEMAS BONS E DIFICEIS */,
+				FCE501B82B9716250038FA71 /* 2 ENTRADAS MESMA LINHA */,
+				FCE501B92B9716410038FA71 /* PROBLEMAS MUITO SIMPLES */,
+			);
+			path = "Swift-BeeCrowd";
+			sourceTree = "<group>";
+		};
+		FCE501B82B9716250038FA71 /* 2 ENTRADAS MESMA LINHA */ = {
+			isa = PBXGroup;
+			children = (
+				FCE501B52B9714AF0038FA71 /* Distância entre dois pontos.swift */,
+				FCE501A82B9711570038FA71 /* Cálculo Simples.swift */,
+			);
+			name = "2 ENTRADAS MESMA LINHA";
+			sourceTree = "<group>";
+		};
+		FCE501B92B9716410038FA71 /* PROBLEMAS MUITO SIMPLES */ = {
+			isa = PBXGroup;
+			children = (
+				FCE501A22B9711570038FA71 /* Diferença.swift */,
+				FCE501A32B9711570038FA71 /* Hello World.swift */,
+				FCE501C92B9745580038FA71 /* Números Positivos.swift */,
+				FCE501A72B9711570038FA71 /* Média 1.swift */,
+				FCE501C72B973CE50038FA71 /* Números Pares.swift */,
+				FCE501A12B9711570038FA71 /* Média 2.swift */,
+				FCE5019F2B9711570038FA71 /* Produto Simples.swift */,
+				FCE501CB2B974DF80038FA71 /* Pares entre 5 numeros.swift */,
+				FCE501CD2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift */,
+				FCE501B32B97129F0038FA71 /* Consumo.swift */,
+				FCE501A52B9711570038FA71 /* Soma Simples.swift */,
+				FCE501A62B9711570038FA71 /* Salário.swift */,
+				FCE501A02B9711570038FA71 /* Extremamente Básico.swift */,
+				FCE501BA2B97169B0038FA71 /* Distância.swift */,
+				FCE501BE2B971D520038FA71 /* DUVIDAS */,
+			);
+			name = "PROBLEMAS MUITO SIMPLES";
+			sourceTree = "<group>";
+		};
+		FCE501BE2B971D520038FA71 /* DUVIDAS */ = {
+			isa = PBXGroup;
+			children = (
+				FCE501A42B9711570038FA71 /* Salário com Bônus.swift */,
+				FCE501BC2B97181C0038FA71 /* Gasto de Combustível.swift */,
+			);
+			name = DUVIDAS;
+			sourceTree = "<group>";
+		};
+		FCE501C02B971DB40038FA71 /* PROBLEMAS BONS E DIFICEIS */ = {
+			isa = PBXGroup;
+			children = (
+				FCE501C32B971F750038FA71 /* Conversão de Tempo.swift */,
+				FCE501C12B971DC80038FA71 /* Cédulas.swift */,
+			);
+			name = "PROBLEMAS BONS E DIFICEIS";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FCE501922B9710030038FA71 /* Swift-BeeCrowd */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FCE5019A2B9710030038FA71 /* Build configuration list for PBXNativeTarget "Swift-BeeCrowd" */;
+			buildPhases = (
+				FCE5018F2B9710030038FA71 /* Sources */,
+				FCE501902B9710030038FA71 /* Frameworks */,
+				FCE501912B9710030038FA71 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Swift-BeeCrowd";
+			productName = "Swift-BeeCrowd";
+			productReference = FCE501932B9710030038FA71 /* Swift-BeeCrowd */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FCE5018B2B9710030038FA71 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					FCE501922B9710030038FA71 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = FCE5018E2B9710030038FA71 /* Build configuration list for PBXProject "Swift-BeeCrowd" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FCE5018A2B9710030038FA71;
+			productRefGroup = FCE501942B9710030038FA71 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FCE501922B9710030038FA71 /* Swift-BeeCrowd */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FCE5018F2B9710030038FA71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FCE501AE2B9711570038FA71 /* Salário com Bônus.swift in Sources */,
+				FCE501CE2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift in Sources */,
+				FCE501BB2B97169B0038FA71 /* Distância.swift in Sources */,
+				FCE501B62B9714AF0038FA71 /* Distância entre dois pontos.swift in Sources */,
+				FCE501AC2B9711570038FA71 /* Diferença.swift in Sources */,
+				FCE501C42B971F750038FA71 /* Conversão de Tempo.swift in Sources */,
+				FCE501CC2B974DF80038FA71 /* Pares entre 5 numeros.swift in Sources */,
+				FCE501AF2B9711570038FA71 /* Soma Simples.swift in Sources */,
+				FCE501CA2B9745580038FA71 /* Números Positivos.swift in Sources */,
+				FCE501B12B9711570038FA71 /* Média 1.swift in Sources */,
+				FCE501AB2B9711570038FA71 /* Média 2.swift in Sources */,
+				FCE501B22B9711570038FA71 /* Cálculo Simples.swift in Sources */,
+				FCE501AD2B9711570038FA71 /* Hello World.swift in Sources */,
+				FCE501A92B9711570038FA71 /* Produto Simples.swift in Sources */,
+				FCE501B42B97129F0038FA71 /* Consumo.swift in Sources */,
+				FCE501C22B971DC80038FA71 /* Cédulas.swift in Sources */,
+				FCE501B02B9711570038FA71 /* Salário.swift in Sources */,
+				FCE501BD2B97181C0038FA71 /* Gasto de Combustível.swift in Sources */,
+				FCE501972B9710030038FA71 /* main.swift in Sources */,
+				FCE501C82B973CE50038FA71 /* Números Pares.swift in Sources */,
+				FCE501AA2B9711570038FA71 /* Extremamente Básico.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		FCE501982B9710030038FA71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FCE501992B9710030038FA71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		FCE5019B2B9710030038FA71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 794BSSJP8V;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		FCE5019C2B9710030038FA71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 794BSSJP8V;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FCE5018E2B9710030038FA71 /* Build configuration list for PBXProject "Swift-BeeCrowd" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FCE501982B9710030038FA71 /* Debug */,
+				FCE501992B9710030038FA71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FCE5019A2B9710030038FA71 /* Build configuration list for PBXNativeTarget "Swift-BeeCrowd" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FCE5019B2B9710030038FA71 /* Debug */,
+				FCE5019C2B9710030038FA71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FCE5018B2B9710030038FA71 /* Project object */;
+}
