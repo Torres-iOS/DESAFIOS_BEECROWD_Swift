@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC7A5B702B987672004FFB7C /* Sequencia IJ 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7A5B6F2B987672004FFB7C /* Sequencia IJ 2.swift */; };
+		FC7A5B722B987B51004FFB7C /* Sequencia IJ 3 .swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7A5B712B987B51004FFB7C /* Sequencia IJ 3 .swift */; };
 		FCE501972B9710030038FA71 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501962B9710030038FA71 /* main.swift */; };
 		FCE501A92B9711570038FA71 /* Produto Simples.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE5019F2B9711570038FA71 /* Produto Simples.swift */; };
 		FCE501AA2B9711570038FA71 /* Extremamente Básico.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A02B9711570038FA71 /* Extremamente Básico.swift */; };
@@ -28,6 +30,10 @@
 		FCE501CA2B9745580038FA71 /* Números Positivos.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501C92B9745580038FA71 /* Números Positivos.swift */; };
 		FCE501CC2B974DF80038FA71 /* Pares entre 5 numeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501CB2B974DF80038FA71 /* Pares entre 5 numeros.swift */; };
 		FCE501CE2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501CD2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift */; };
+		FCE501D02B9863E00038FA71 /* Seis Números Ímpares.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501CF2B9863E00038FA71 /* Seis Números Ímpares.swift */; };
+		FCE501D42B986DD60038FA71 /* Quadrado de Pares .swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501D32B986DD60038FA71 /* Quadrado de Pares .swift */; };
+		FCE501D62B986FAA0038FA71 /* Tabuada.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501D52B986FAA0038FA71 /* Tabuada.swift */; };
+		FCE501D82B9872510038FA71 /* Sequencia IJ 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501D72B9872510038FA71 /* Sequencia IJ 1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +49,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		FC7A5B6F2B987672004FFB7C /* Sequencia IJ 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sequencia IJ 2.swift"; sourceTree = "<group>"; };
+		FC7A5B712B987B51004FFB7C /* Sequencia IJ 3 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sequencia IJ 3 .swift"; sourceTree = "<group>"; };
 		FCE501932B9710030038FA71 /* Swift-BeeCrowd */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift-BeeCrowd"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCE501962B9710030038FA71 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		FCE5019F2B9711570038FA71 /* Produto Simples.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Produto Simples.swift"; sourceTree = "<group>"; };
@@ -65,6 +73,10 @@
 		FCE501C92B9745580038FA71 /* Números Positivos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Números Positivos.swift"; sourceTree = "<group>"; };
 		FCE501CB2B974DF80038FA71 /* Pares entre 5 numeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pares entre 5 numeros.swift"; sourceTree = "<group>"; };
 		FCE501CD2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pares, Ímpares, Positivos e Negativos.swift"; sourceTree = "<group>"; };
+		FCE501CF2B9863E00038FA71 /* Seis Números Ímpares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Seis Números Ímpares.swift"; sourceTree = "<group>"; };
+		FCE501D32B986DD60038FA71 /* Quadrado de Pares .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Quadrado de Pares .swift"; sourceTree = "<group>"; };
+		FCE501D52B986FAA0038FA71 /* Tabuada.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabuada.swift; sourceTree = "<group>"; };
+		FCE501D72B9872510038FA71 /* Sequencia IJ 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sequencia IJ 1.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				FCE501962B9710030038FA71 /* main.swift */,
+				FCE501D22B986DB50038FA71 /* PROBLEMAS BONS */,
 				FCE501C02B971DB40038FA71 /* PROBLEMAS BONS E DIFICEIS */,
 				FCE501B82B9716250038FA71 /* 2 ENTRADAS MESMA LINHA */,
 				FCE501B92B9716410038FA71 /* PROBLEMAS MUITO SIMPLES */,
@@ -117,6 +130,8 @@
 		FCE501B92B9716410038FA71 /* PROBLEMAS MUITO SIMPLES */ = {
 			isa = PBXGroup;
 			children = (
+				FCE501D72B9872510038FA71 /* Sequencia IJ 1.swift */,
+				FC7A5B6F2B987672004FFB7C /* Sequencia IJ 2.swift */,
 				FCE501A22B9711570038FA71 /* Diferença.swift */,
 				FCE501A32B9711570038FA71 /* Hello World.swift */,
 				FCE501C92B9745580038FA71 /* Números Positivos.swift */,
@@ -128,9 +143,11 @@
 				FCE501CD2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift */,
 				FCE501B32B97129F0038FA71 /* Consumo.swift */,
 				FCE501A52B9711570038FA71 /* Soma Simples.swift */,
+				FCE501D52B986FAA0038FA71 /* Tabuada.swift */,
 				FCE501A62B9711570038FA71 /* Salário.swift */,
 				FCE501A02B9711570038FA71 /* Extremamente Básico.swift */,
 				FCE501BA2B97169B0038FA71 /* Distância.swift */,
+				FCE501CF2B9863E00038FA71 /* Seis Números Ímpares.swift */,
 				FCE501BE2B971D520038FA71 /* DUVIDAS */,
 			);
 			name = "PROBLEMAS MUITO SIMPLES";
@@ -139,6 +156,7 @@
 		FCE501BE2B971D520038FA71 /* DUVIDAS */ = {
 			isa = PBXGroup;
 			children = (
+				FC7A5B712B987B51004FFB7C /* Sequencia IJ 3 .swift */,
 				FCE501A42B9711570038FA71 /* Salário com Bônus.swift */,
 				FCE501BC2B97181C0038FA71 /* Gasto de Combustível.swift */,
 			);
@@ -152,6 +170,14 @@
 				FCE501C12B971DC80038FA71 /* Cédulas.swift */,
 			);
 			name = "PROBLEMAS BONS E DIFICEIS";
+			sourceTree = "<group>";
+		};
+		FCE501D22B986DB50038FA71 /* PROBLEMAS BONS */ = {
+			isa = PBXGroup;
+			children = (
+				FCE501D32B986DD60038FA71 /* Quadrado de Pares .swift */,
+			);
+			name = "PROBLEMAS BONS";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -214,24 +240,30 @@
 			files = (
 				FCE501AE2B9711570038FA71 /* Salário com Bônus.swift in Sources */,
 				FCE501CE2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift in Sources */,
+				FCE501D62B986FAA0038FA71 /* Tabuada.swift in Sources */,
 				FCE501BB2B97169B0038FA71 /* Distância.swift in Sources */,
 				FCE501B62B9714AF0038FA71 /* Distância entre dois pontos.swift in Sources */,
+				FC7A5B722B987B51004FFB7C /* Sequencia IJ 3 .swift in Sources */,
 				FCE501AC2B9711570038FA71 /* Diferença.swift in Sources */,
 				FCE501C42B971F750038FA71 /* Conversão de Tempo.swift in Sources */,
+				FCE501D82B9872510038FA71 /* Sequencia IJ 1.swift in Sources */,
 				FCE501CC2B974DF80038FA71 /* Pares entre 5 numeros.swift in Sources */,
 				FCE501AF2B9711570038FA71 /* Soma Simples.swift in Sources */,
 				FCE501CA2B9745580038FA71 /* Números Positivos.swift in Sources */,
 				FCE501B12B9711570038FA71 /* Média 1.swift in Sources */,
 				FCE501AB2B9711570038FA71 /* Média 2.swift in Sources */,
+				FCE501D42B986DD60038FA71 /* Quadrado de Pares .swift in Sources */,
 				FCE501B22B9711570038FA71 /* Cálculo Simples.swift in Sources */,
 				FCE501AD2B9711570038FA71 /* Hello World.swift in Sources */,
 				FCE501A92B9711570038FA71 /* Produto Simples.swift in Sources */,
 				FCE501B42B97129F0038FA71 /* Consumo.swift in Sources */,
 				FCE501C22B971DC80038FA71 /* Cédulas.swift in Sources */,
 				FCE501B02B9711570038FA71 /* Salário.swift in Sources */,
+				FCE501D02B9863E00038FA71 /* Seis Números Ímpares.swift in Sources */,
 				FCE501BD2B97181C0038FA71 /* Gasto de Combustível.swift in Sources */,
 				FCE501972B9710030038FA71 /* main.swift in Sources */,
 				FCE501C82B973CE50038FA71 /* Números Pares.swift in Sources */,
+				FC7A5B702B987672004FFB7C /* Sequencia IJ 2.swift in Sources */,
 				FCE501AA2B9711570038FA71 /* Extremamente Básico.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
