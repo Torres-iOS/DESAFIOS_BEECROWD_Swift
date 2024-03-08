@@ -15,7 +15,7 @@ import Foundation
 //Saída
 //Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 
-func ex1001(){
+func ex1001() {
     let userInputA = readLine() ?? ""
     let userInputB = readLine() ?? ""
     
