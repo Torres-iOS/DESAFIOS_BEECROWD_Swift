@@ -9,6 +9,14 @@
 /* Begin PBXBuildFile section */
 		FC7A5B702B987672004FFB7C /* Sequencia IJ 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7A5B6F2B987672004FFB7C /* Sequencia IJ 2.swift */; };
 		FC7A5B722B987B51004FFB7C /* Sequencia IJ 3 .swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7A5B712B987B51004FFB7C /* Sequencia IJ 3 .swift */; };
+		FC84BDAA2B98F45100D7CCF1 /* Dividindo X por Y.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC84BDA92B98F45100D7CCF1 /* Dividindo X por Y.swift */; };
+		FC84BDAC2B99D01000D7CCF1 /* Validação de Nota.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC84BDAB2B99D01000D7CCF1 /* Validação de Nota.swift */; };
+		FC84BDAE2B99D05E00D7CCF1 /* Grenais.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC84BDAD2B99D05E00D7CCF1 /* Grenais.swift */; };
+		FC84BDB12B99DF9100D7CCF1 /* Múltiplos de 13 .swift in Sources */ = {isa = PBXBuildFile; fileRef = FC84BDB02B99DF9100D7CCF1 /* Múltiplos de 13 .swift */; };
+		FC84BDB32B99E48200D7CCF1 /* Tipo de Combustível .swift in Sources */ = {isa = PBXBuildFile; fileRef = FC84BDB22B99E48200D7CCF1 /* Tipo de Combustível .swift */; };
+		FC84BDB52B9B7DD300D7CCF1 /* PUM.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC84BDB42B9B7DD300D7CCF1 /* PUM.swift */; };
+		FCA8BC0E2B98DBEB00211BE6 /* Senha Fixa.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA8BC0D2B98DBEB00211BE6 /* Senha Fixa.swift */; };
+		FCA8BC102B98E2B900211BE6 /* Quadrante.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA8BC0F2B98E2B900211BE6 /* Quadrante.swift */; };
 		FCE501972B9710030038FA71 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501962B9710030038FA71 /* main.swift */; };
 		FCE501A92B9711570038FA71 /* Produto Simples.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE5019F2B9711570038FA71 /* Produto Simples.swift */; };
 		FCE501AA2B9711570038FA71 /* Extremamente Básico.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE501A02B9711570038FA71 /* Extremamente Básico.swift */; };
@@ -51,6 +59,14 @@
 /* Begin PBXFileReference section */
 		FC7A5B6F2B987672004FFB7C /* Sequencia IJ 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sequencia IJ 2.swift"; sourceTree = "<group>"; };
 		FC7A5B712B987B51004FFB7C /* Sequencia IJ 3 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sequencia IJ 3 .swift"; sourceTree = "<group>"; };
+		FC84BDA92B98F45100D7CCF1 /* Dividindo X por Y.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dividindo X por Y.swift"; sourceTree = "<group>"; };
+		FC84BDAB2B99D01000D7CCF1 /* Validação de Nota.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Validação de Nota.swift"; sourceTree = "<group>"; };
+		FC84BDAD2B99D05E00D7CCF1 /* Grenais.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grenais.swift; sourceTree = "<group>"; };
+		FC84BDB02B99DF9100D7CCF1 /* Múltiplos de 13 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Múltiplos de 13 .swift"; sourceTree = "<group>"; };
+		FC84BDB22B99E48200D7CCF1 /* Tipo de Combustível .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tipo de Combustível .swift"; sourceTree = "<group>"; };
+		FC84BDB42B9B7DD300D7CCF1 /* PUM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PUM.swift; sourceTree = "<group>"; };
+		FCA8BC0D2B98DBEB00211BE6 /* Senha Fixa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Senha Fixa.swift"; sourceTree = "<group>"; };
+		FCA8BC0F2B98E2B900211BE6 /* Quadrante.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quadrante.swift; sourceTree = "<group>"; };
 		FCE501932B9710030038FA71 /* Swift-BeeCrowd */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift-BeeCrowd"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCE501962B9710030038FA71 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		FCE5019F2B9711570038FA71 /* Produto Simples.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Produto Simples.swift"; sourceTree = "<group>"; };
@@ -90,6 +106,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FC84BDAF2B99DF7400D7CCF1 /* PROBLEMAS SIMPLES */ = {
+			isa = PBXGroup;
+			children = (
+				FC84BDB02B99DF9100D7CCF1 /* Múltiplos de 13 .swift */,
+				FC84BDB22B99E48200D7CCF1 /* Tipo de Combustível .swift */,
+			);
+			name = "PROBLEMAS SIMPLES";
+			sourceTree = "<group>";
+		};
 		FCE5018A2B9710030038FA71 = {
 			isa = PBXGroup;
 			children = (
@@ -110,6 +135,7 @@
 			isa = PBXGroup;
 			children = (
 				FCE501962B9710030038FA71 /* main.swift */,
+				FC84BDAF2B99DF7400D7CCF1 /* PROBLEMAS SIMPLES */,
 				FCE501D22B986DB50038FA71 /* PROBLEMAS BONS */,
 				FCE501C02B971DB40038FA71 /* PROBLEMAS BONS E DIFICEIS */,
 				FCE501B82B9716250038FA71 /* 2 ENTRADAS MESMA LINHA */,
@@ -130,10 +156,12 @@
 		FCE501B92B9716410038FA71 /* PROBLEMAS MUITO SIMPLES */ = {
 			isa = PBXGroup;
 			children = (
+				FCA8BC0D2B98DBEB00211BE6 /* Senha Fixa.swift */,
 				FCE501D72B9872510038FA71 /* Sequencia IJ 1.swift */,
 				FC7A5B6F2B987672004FFB7C /* Sequencia IJ 2.swift */,
 				FCE501A22B9711570038FA71 /* Diferença.swift */,
 				FCE501A32B9711570038FA71 /* Hello World.swift */,
+				FC84BDA92B98F45100D7CCF1 /* Dividindo X por Y.swift */,
 				FCE501C92B9745580038FA71 /* Números Positivos.swift */,
 				FCE501A72B9711570038FA71 /* Média 1.swift */,
 				FCE501C72B973CE50038FA71 /* Números Pares.swift */,
@@ -148,6 +176,7 @@
 				FCE501A02B9711570038FA71 /* Extremamente Básico.swift */,
 				FCE501BA2B97169B0038FA71 /* Distância.swift */,
 				FCE501CF2B9863E00038FA71 /* Seis Números Ímpares.swift */,
+				FCA8BC0F2B98E2B900211BE6 /* Quadrante.swift */,
 				FCE501BE2B971D520038FA71 /* DUVIDAS */,
 			);
 			name = "PROBLEMAS MUITO SIMPLES";
@@ -176,6 +205,9 @@
 			isa = PBXGroup;
 			children = (
 				FCE501D32B986DD60038FA71 /* Quadrado de Pares .swift */,
+				FC84BDAB2B99D01000D7CCF1 /* Validação de Nota.swift */,
+				FC84BDAD2B99D05E00D7CCF1 /* Grenais.swift */,
+				FC84BDB42B9B7DD300D7CCF1 /* PUM.swift */,
 			);
 			name = "PROBLEMAS BONS";
 			sourceTree = "<group>";
@@ -240,19 +272,27 @@
 			files = (
 				FCE501AE2B9711570038FA71 /* Salário com Bônus.swift in Sources */,
 				FCE501CE2B97538D0038FA71 /* Pares, Ímpares, Positivos e Negativos.swift in Sources */,
+				FC84BDAA2B98F45100D7CCF1 /* Dividindo X por Y.swift in Sources */,
+				FC84BDB12B99DF9100D7CCF1 /* Múltiplos de 13 .swift in Sources */,
 				FCE501D62B986FAA0038FA71 /* Tabuada.swift in Sources */,
+				FC84BDAC2B99D01000D7CCF1 /* Validação de Nota.swift in Sources */,
 				FCE501BB2B97169B0038FA71 /* Distância.swift in Sources */,
 				FCE501B62B9714AF0038FA71 /* Distância entre dois pontos.swift in Sources */,
 				FC7A5B722B987B51004FFB7C /* Sequencia IJ 3 .swift in Sources */,
+				FCA8BC0E2B98DBEB00211BE6 /* Senha Fixa.swift in Sources */,
 				FCE501AC2B9711570038FA71 /* Diferença.swift in Sources */,
 				FCE501C42B971F750038FA71 /* Conversão de Tempo.swift in Sources */,
 				FCE501D82B9872510038FA71 /* Sequencia IJ 1.swift in Sources */,
 				FCE501CC2B974DF80038FA71 /* Pares entre 5 numeros.swift in Sources */,
 				FCE501AF2B9711570038FA71 /* Soma Simples.swift in Sources */,
 				FCE501CA2B9745580038FA71 /* Números Positivos.swift in Sources */,
+				FC84BDB52B9B7DD300D7CCF1 /* PUM.swift in Sources */,
 				FCE501B12B9711570038FA71 /* Média 1.swift in Sources */,
+				FCA8BC102B98E2B900211BE6 /* Quadrante.swift in Sources */,
+				FC84BDAE2B99D05E00D7CCF1 /* Grenais.swift in Sources */,
 				FCE501AB2B9711570038FA71 /* Média 2.swift in Sources */,
 				FCE501D42B986DD60038FA71 /* Quadrado de Pares .swift in Sources */,
+				FC84BDB32B99E48200D7CCF1 /* Tipo de Combustível .swift in Sources */,
 				FCE501B22B9711570038FA71 /* Cálculo Simples.swift in Sources */,
 				FCE501AD2B9711570038FA71 /* Hello World.swift in Sources */,
 				FCE501A92B9711570038FA71 /* Produto Simples.swift in Sources */,
